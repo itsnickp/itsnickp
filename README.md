@@ -28,13 +28,12 @@ Actively seeking internship and full-time opportunities in backend systems, full
 
 
 
-!\[Role](https://img.shields.io/badge/Role-Full\_Stack\_Engineer-5EA2FF?style=flat-square)
+## Identity
 
-!\[Focus](https://img.shields.io/badge/Focus-Backend\_\&\_Data\_Systems-8FC0FF?style=flat-square)
-
-!\[Status](https://img.shields.io/badge/Status-Actively\_Looking-397BD8?style=flat-square)
-
-!\[Primary](https://img.shields.io/badge/Core-Python\_\&\_Web\_Engineering-1E2228?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Full_Stack_Engineer-5EA2FF?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Backend_and_Data_Systems-8FC0FF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Actively_Looking-397BD8?style=flat-square)
+![Core](https://img.shields.io/badge/Core-Python_and_Web_Engineering-1E2228?style=flat-square)
 
 
 

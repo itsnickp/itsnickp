@@ -1,175 +1,71 @@
-<!-- Frosted Graphite GitHub Profile -->
+# Nikit Pandey
 
+Computer Engineering Student · Full Stack Engineer · Data & Backend Systems
 
+Actively seeking internship and full-time opportunities.
 
-\# Nikit Pandey
-
-
-
-\*\*Full Stack Engineer · Computer Engineering Student · Data Science \& Backend Focus\*\*
-
-
-
-Actively seeking internship and full-time opportunities in backend systems, full-stack development, and applied data science.
-
-
-
-📧 nikitpandey18@gmail.com  
-
-📍 Nepal
-
-
-
-\---
-
-
-
-\## Identity
-
-
+---
 
 ## Identity
 
-![Role](https://img.shields.io/badge/Role-Full_Stack_Engineer-5EA2FF?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Backend_and_Data_Systems-8FC0FF?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Actively_Looking-397BD8?style=flat-square)
-![Core](https://img.shields.io/badge/Core-Python_and_Web_Engineering-1E2228?style=flat-square)
+![Python](https://img.shields.io/badge/Python-1E2228?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1E2228?style=flat-square&logo=django&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend_Engineer-1E2228?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data_Science-1E2228?style=flat-square)
 
+---
 
+## Focus Areas
 
-\---
+- Backend system design using Python & Django  
+- REST API development and scalable architecture  
+- Data analysis workflows using Pandas  
+- Learning system design and Linux fundamentals  
 
+---
 
+## Technical Stack
 
-\## Current Focus
+### Languages
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=white)
 
+### Backend & Data
+![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-black?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-\- Building backend systems using Python and API-driven architecture
+---
 
-\- Strengthening system design and Linux fundamentals
+## Projects
 
-\- Learning data pipelines and applied machine learning workflows
+### Backend System Architecture
+Modular backend system exploring service design and API structure patterns using Python.
 
+### Data Analysis Pipeline
+Structured workflow for dataset cleaning, processing, and visualization.
 
+### Full Stack Web System
+Simple full-stack application connecting frontend UI with backend APIs.
 
-\---
+---
 
+## Direction
 
+Focused on backend engineering depth, scalable API systems, and applied data workflows.
 
-\## Technical Stack
+---
 
+## Contact
 
-
-\### Languages
-
-\- Python
-
-\- HTML
-
-\- CSS
-
-\- PHP
-
-
-
-\### Backend \& Data
-
-\- Django
-
-\- REST APIs
-
-\- Pandas
-
-\- Matplotlib
-
-
-
-\### Tools
-
-\- Git \& GitHub
-
-\- VS Code
-
-\- Linux (learning)
-
-
-
-\---
-
-
-
-\## Featured Work
-
-
-
-\### Backend System Architecture
-
-A modular backend system inspired by workflow orchestration concepts. Focused on routing, execution flow, and scalable API structure.
-
-
-
-\*\*Stack:\*\* Python (FastAPI planned)
-
-
-
-\---
-
-
-
-\### Data Analysis Pipeline
-
-Structured pipeline for cleaning, processing, and analyzing datasets using reproducible workflows.
-
-
-
-\*\*Stack:\*\* Python · Pandas · Matplotlib
-
-
-
-\---
-
-
-
-\### Full Stack Web System
-
-End-to-end web application connecting frontend UI with backend API services.
-
-
-
-\*\*Stack:\*\* HTML · CSS · Python backend
-
-
-
-\---
-
-
-
-\## Current Direction
-
-
-
-Focused on building production-level backend understanding, improving system design skills, and applying data science in real-world workflows.
-
-
-
-\---
-
-
-
-\## Contact
-
-
-
-\- Email: \*\*nikitpandey18@gmail.com\*\*
-
-\- GitHub: https://github.com/itsnickp
-
-
-
-\---
-
-
-
-> Open to internships, backend roles, and data-driven engineering opportunities.
-
+- Email: **nikitpandey18@gmail.com**
+- GitHub: https://github.com/itsnickp

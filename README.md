@@ -1,62 +1,80 @@
 # Nikit Pandey
 
-Computer Engineering Student · Full Stack Engineer · Backend & Data Systems Focus
+Computer Engineering Student · Full Stack Engineer · Backend Systems & Data Focus
 
 Actively seeking internship and full-time opportunities.
 
 ---
 
-## Identity
+## Overview
 
-![Python](https://img.shields.io/badge/Python-1E2228?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1E2228?style=for-the-badge&logo=django&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Engineer-1E2228?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data-Science-1E2228?style=for-the-badge)
+Focused on building reliable backend systems, structured APIs, and data-driven applications using Python.
 
----
-
-## About Me
-
-- Computer Engineering student at Pokhara University  
-- Focused on backend systems, APIs, and data workflows  
-- Learning system design, Linux, and scalable architectures  
-- Interested in fintech, health data, and automation systems  
+Exploring system design, scalable architectures, and real-world data workflows.
 
 ---
 
-## Tech Stack
+## Identity Stack
+
+![Python](https://img.shields.io/badge/Python-0B0D10?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0B0D10?style=for-the-badge&logo=django&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend_Systems-0B0D10?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data_Science-0B0D10?style=for-the-badge)
+
+---
+
+## Focus Areas
+
+- Backend system design using Python & Django  
+- REST API architecture and scalable services  
+- Data pipelines using Pandas and structured workflows  
+- Linux fundamentals and deployment concepts  
+
+---
+
+## Technical Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
-### Backend & Data
+### Backend
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
-![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
+![REST API](https://img.shields.io/badge/API_Design-black?style=for-the-badge)
+
+### Data
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Visualization-black?style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsnickp&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=itsnickp&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnickp&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnickp&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
-- Building backend systems using Python and Django  
-- Learning system design and distributed architecture basics  
-- Improving Linux and backend deployment workflows  
-- Practicing data analysis with Pandas and real datasets  
+- Designing backend systems with clean API architecture  
+- Improving system design and scalability thinking  
+- Learning Linux, deployment workflows, and server basics  
+- Building structured data analysis pipelines  
+
+---
+
+## Philosophy
+
+> Build systems that are simple, scalable, and understandable.
 
 ---
 

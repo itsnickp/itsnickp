@@ -81,4 +81,3 @@ Exploring system design, scalable architectures, and real-world data workflows.
 ## Contact
 
 - Email: **nikitpandey18@gmail.com**
-- GitHub: https://github.com/itsnickp

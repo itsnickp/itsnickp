@@ -10,6 +10,10 @@ I build plain, working software: tools that store data cleanly, don't duplicate 
 
 ## What I've built
 
+**Outreach Console — self-running B2B outreach pipeline**
+Finds small firms hiring for admin-heavy roles (Indeed hiring signals, semantic job-title matching), records one verdict per candidate, finds and verifies a real decision-maker (hand-written DNS MX check → Reoon → Hunter, cached per domain), drafts a threaded Day 0/3/7 sequence into Gmail with hard post-checks, sends at a warmed-up pace, and stops on replies, bounces and unsubscribes. ~10k lines, 290 tests, 8 scheduled GitHub Actions workflows, all on free tiers.
+`Python` `GitHub Actions` `Gmail API` `Render` `pytest`
+
 **ClassPlus — QR attendance & class management (final-year project, team of 4)**
 Role-based web app for admins, teachers and students. Teachers start a session that generates a QR and manual code; students scan it and the present list updates live; attendance is finalised and exported to CSV/PDF. Includes OTP login, notes, assignments and per-class chat. **My part:** the MySQL database design.
 `PHP` `MySQL` `jQuery/AJAX` `Bootstrap`
@@ -34,7 +38,7 @@ AI lead qualification with de-duplication and follow-up reminders; an order sync
 |---|---|
 | **Languages** | Python, SQL, PHP, JavaScript (jQuery/AJAX), HTML/CSS |
 | **Data** | PostgreSQL, MySQL, schema & index design, de-duplication, web scraping |
-| **Automation** | n8n, webhooks & HTTP APIs, retries & error handling |
+| **Automation** | n8n, GitHub Actions schedules, Gmail API, webhooks & HTTP APIs, retries & error handling |
 | **Tooling** | Git/GitHub, GitHub Actions, pytest, Vercel |
 
 ## Education

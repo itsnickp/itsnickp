@@ -10,10 +10,6 @@ I build plain, working software: tools that store data cleanly, don't duplicate 
 
 ## What I've built
 
-**Pink Fix — Blender extension (commercial)**
-Finds every external file a `.blend` depends on (images, UDIM sets, sequences, sounds, fonts, linked libraries), relinks missing ones from chosen folders with fuzzy matching and confidence scores, previews changes as a dry run, and packs the project into one portable folder. Supports Blender 4.2–5.2 LTS on Windows, macOS and Linux. I also wrote and published its documentation site.
-`Python` `Blender API` `MkDocs`
-
 **ClassPlus — QR attendance & class management (final-year project, team of 4)**
 Role-based web app for admins, teachers and students. Teachers start a session that generates a QR and manual code; students scan it and the present list updates live; attendance is finalised and exported to CSV/PDF. Includes OTP login, notes, assignments and per-class chat. **My part:** the MySQL database design.
 `PHP` `MySQL` `jQuery/AJAX` `Bootstrap`
@@ -39,7 +35,7 @@ AI lead qualification with de-duplication and follow-up reminders; an order sync
 | **Languages** | Python, SQL, PHP, JavaScript (jQuery/AJAX), HTML/CSS |
 | **Data** | PostgreSQL, MySQL, schema & index design, de-duplication, web scraping |
 | **Automation** | n8n, webhooks & HTTP APIs, retries & error handling |
-| **Tooling** | Git/GitHub, GitHub Actions, pytest, MkDocs, Vercel |
+| **Tooling** | Git/GitHub, GitHub Actions, pytest, Vercel |
 
 ## Education
 

@@ -1,83 +1,47 @@
 # Nikit Pandey
 
-Computer Engineering Student · Full Stack Engineer · Backend Systems & Data Focus
+**Software developer · Python, SQL & automation** · Computer Engineering student, Pokhara University · Butwal, Nepal (UTC+5:45)
 
-Actively seeking internship and full-time opportunities.
+I build plain, working software: tools that store data cleanly, don't duplicate it, and keep running when an outside service fails. Open to internships, junior developer roles and project work.
 
----
-
-## Overview
-
-Focused on building reliable backend systems, structured APIs, and data-driven applications using Python.
-
-Exploring system design, scalable architectures, and real-world data workflows.
+**Resume site:** [nikitpandey.vercel.app](https://nikitpandey.vercel.app) · **Email:** nikitpandey18@gmail.com · **LinkedIn:** [nikit-p](https://www.linkedin.com/in/nikit-p-b69696406/)
 
 ---
 
-## Identity Stack
+## What I've built
 
-![Python](https://img.shields.io/badge/Python-0B0D10?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0B0D10?style=for-the-badge&logo=django&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend_Systems-0B0D10?style=for-the-badge)
-![Data](https://img.shields.io/badge/Data_Science-0B0D10?style=for-the-badge)
+**Pink Fix — Blender extension (commercial)**
+Finds every external file a `.blend` depends on (images, UDIM sets, sequences, sounds, fonts, linked libraries), relinks missing ones from chosen folders with fuzzy matching and confidence scores, previews changes as a dry run, and packs the project into one portable folder. Supports Blender 4.2–5.2 LTS on Windows, macOS and Linux. I also wrote and published its documentation site.
+`Python` `Blender API` `MkDocs`
 
----
+**ClassPlus — QR attendance & class management (final-year project, team of 4)**
+Role-based web app for admins, teachers and students. Teachers start a session that generates a QR and manual code; students scan it and the present list updates live; attendance is finalised and exported to CSV/PDF. Includes OTP login, notes, assignments and per-class chat. **My part:** the MySQL database design.
+`PHP` `MySQL` `jQuery/AJAX` `Bootstrap`
 
-## Focus Areas
+**Job aggregator API**
+Collects software/IT jobs from the Remotive and RemoteOK APIs and by scraping merojob.com, de-duplicates them, stores them in PostgreSQL and serves filter/paginate endpoints. Tests run in GitHub Actions.
+`Python` `PostgreSQL` `SQLAlchemy` `BeautifulSoup` `pytest`
 
-- Backend system design using Python & Django  
-- REST API architecture and scalable services  
-- Data pipelines using Pandas and structured workflows  
-- Linux fundamentals and deployment concepts  
+**Anki theme manager — add-on**
+Detects each Anki note type from its fields, matches it to one of 14 presets and applies iOS/macOS-style card templates, backing up the originals with one-click restore.
+`Python` `Anki add-on API` `Qt`
 
----
-
-## Technical Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-
-### Backend
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
-![REST API](https://img.shields.io/badge/API_Design-black?style=for-the-badge)
-
-### Data
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Visualization-black?style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
+**n8n workflows**
+AI lead qualification with de-duplication and follow-up reminders; an order sync with validation and exponential-backoff retries; a law-firm client intake that moves records from intake to booked consultation. Every workflow validates input and logs failures.
+`n8n` `Webhooks` `Sheets` `Slack` `Airtable`
 
 ---
 
-## GitHub Performance
+## Skills
 
-![Stats](https://github-readme-stats.vercel.app/api?username=itsnickp&show_icons=true&theme=github_dark&hide_border=true)
+| | |
+|---|---|
+| **Languages** | Python, SQL, PHP, JavaScript (jQuery/AJAX), HTML/CSS |
+| **Data** | PostgreSQL, MySQL, schema & index design, de-duplication, web scraping |
+| **Automation** | n8n, webhooks & HTTP APIs, retries & error handling |
+| **Tooling** | Git/GitHub, GitHub Actions, pytest, MkDocs, Vercel |
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnickp&layout=compact&theme=github_dark&hide_border=true)
+## Education
 
----
-
-## Currently Working On
-
-- Designing backend systems with clean API architecture  
-- Improving system design and scalability thinking  
-- Learning Linux, deployment workflows, and server basics  
-- Building structured data analysis pipelines  
-
----
-
-## Philosophy
-
-> Build systems that are simple, scalable, and understandable.
-
----
-
-## Contact
-
-- Email: **nikitpandey18@gmail.com**
+**B.E. Computer Engineering** — Pokhara Engineering College, Pokhara University (2021 – present)
+Database management systems, data structures & algorithms, object-oriented software engineering.
